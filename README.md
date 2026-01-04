@@ -7,7 +7,7 @@ I'm interested in full stack development, particularly as it relates to AI and s
 **Tech:** Python • TS/JS • React/Next • FastAPI/Node • SQL/Postgres • Docker
 
 **Links:** [LinkedIn](https://www.linkedin.com/in/htphillips/
-) • [Email](harrytphill@gmail.com)
+)
 
 
 <!--
