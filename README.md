@@ -1,8 +1,14 @@
-## Hi there 👋
+## Welcome 👋
 
-My name is Harry, and I'm a CS student @ Monash University.
+I'm Harry, and I'm studying **Commerce & Computer Science @ Monash**
 
-https://www.linkedin.com/in/htphillips/
+I'm interested in full stack development, particularly as it relates to AI and startups.
+
+**Tech:** Python • TS/JS • React/Next • FastAPI/Node • SQL/Postgres • Docker
+
+**Links:** [LinkedIn](https://www.linkedin.com/in/htphillips/
+) • [Email](harrytphill@gmail.com)
+
 
 <!--
 **harryph1ll1ps/harryph1ll1ps** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
