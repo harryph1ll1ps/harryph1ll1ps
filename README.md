@@ -2,7 +2,7 @@
 
 My name is Harry, and I'm a CS student @ Monash University.
 
-Reach me -> https://www.linkedin.com/in/htphillips/
+https://www.linkedin.com/in/htphillips/
 
 <!--
 **harryph1ll1ps/harryph1ll1ps** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
