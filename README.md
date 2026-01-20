@@ -1,10 +1,6 @@
-## Welcome 👋
+## Hello there 👋
 
-I'm Harry, and I'm studying **Commerce & Computer Science @ Monash**
-
-I'm interested in full stack development, particularly as it relates to AI and startups.
-
-**Tech:** Python • TS/JS • React/Next • FastAPI/Node • SQL/Postgres • Docker
+Check out some of my projects, or connect with me on socials.
 
 **Links:** [LinkedIn](https://www.linkedin.com/in/htphillips/
 )
