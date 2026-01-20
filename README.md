@@ -1,4 +1,4 @@
-## Hello there 👋
+## Welcome!
 
 Check out some of my projects, or connect with me on socials.
 
