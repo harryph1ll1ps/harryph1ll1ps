@@ -2,8 +2,6 @@
 
 Check out some of my projects, or connect with me on socials.
 
-New github acc lacking grass.
-
 **Links:** [LinkedIn](https://www.linkedin.com/in/htphillips/
 )
 
