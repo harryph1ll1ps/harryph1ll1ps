@@ -1,8 +1,10 @@
 ## Welcome!
 
-I'm a 4th year CS student at Monash who's looking to learn and ship cool ideas.
+**I'm Harry**, a 4th year CS student at Monash 🧑‍🎓
 
-Check out some of my projects, or connect with me on socials.
+I'm here to learn, build from the ground up, and ship cool ideas 📫
+
+Check out some of my projects, or connect with me on socials 💬
 
 **Links:** [LinkedIn](https://www.linkedin.com/in/htphillips/
 )
