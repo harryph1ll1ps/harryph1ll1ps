@@ -1,6 +1,6 @@
 ## Welcome!
 
-**I'm Harry**, a 4th year CS student at Monash 🧑‍🎓
+**I'm Harry**, a 4th year BCom & CS student at Monash 🧑‍🎓
 
 I'm here to learn, build from the ground up, and ship cool ideas 📫
 
