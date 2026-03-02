@@ -6,7 +6,7 @@ I'm here to learn, build from the ground up, and ship cool ideas 📫
 
 Check out some of my projects, or connect with me on socials 💬
 
-**Links:** [LinkedIn](https://www.linkedin.com/in/htphillips/
+[LinkedIn](https://www.linkedin.com/in/htphillips/
 )
 
 
