@@ -2,8 +2,6 @@
 
 I'm <ins>**Harry**</ins>, a 4th year student at Monash (BCom + CS) 🧑‍🎓
 
-I'm here to learn, build from the ground up, and ship cool ideas 📫
-
 Check out some of my projects, or connect with me on socials 💬
 
 * [LinkedIn](https://www.linkedin.com/in/htphillips/
