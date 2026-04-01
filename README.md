@@ -1,6 +1,15 @@
 ## Welcome, I'm Harry!
 
-### Skills
+###  About Me
+
+* 🎓 Penultimate-year Computer Science + Commerce student at Monash University
+* 🚀 Working closely with founders and early-stage Australian startups
+* 🤖 Always looking to learn and experiment with cutting edge technology
+* 🛠️ Building different projects across software and hardware
+* 🧑‍🍳 Primary account for future projects
+
+
+###  Skills
 
 ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
 ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
@@ -11,17 +20,12 @@
 ![Fastify](https://img.shields.io/badge/fastify-%23000000.svg?style=for-the-badge&logo=fastify&logoColor=white)
 
 
-### Connect
+### Social Media
+<a href="https://www.linkedin.com/in/htphillips/" target="_blank">
+  <img width="35" height="35" alt="LinkedIn" src="https://github.com/user-attachments/assets/e4e88b4c-848d-47a5-b84d-854fdd9601f4" />
+</a>
 
-<img width="35" height="35" alt="LinkedIn" src="https://github.com/user-attachments/assets/e4e88b4c-848d-47a5-b84d-854fdd9601f4" />
 <img width="35" height="35" alt="Twitter" src="https://github.com/user-attachments/assets/8959472e-f87c-4e98-8b58-8c18303639dd" />
-
-
-
-* [LinkedIn](https://www.linkedin.com/in/htphillips/
-)
-
-
 
 <!--
 **harryph1ll1ps/harryph1ll1ps** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
