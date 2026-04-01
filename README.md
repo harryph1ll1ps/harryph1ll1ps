@@ -6,7 +6,7 @@
 * 🚀 Working closely with founders and early-stage Australian startups
 * 🤖 Always looking to learn and experiment with cutting edge technology
 * 🛠️ Building different projects across software and hardware
-* 🧑‍🍳 Primary account for future projects
+* 🧑‍🍳 Primary account for my future projects
 
 
 ###  Skills
