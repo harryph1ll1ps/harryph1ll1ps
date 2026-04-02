@@ -4,9 +4,9 @@
 
 * 🎓 Penultimate-year Computer Science + Commerce student at Monash University
 * 🚀 Working closely with founders and early-stage Australian startups
-* 🤖 Always learning and experimenting with cutting edge technology
+* 🤖 Learning and experimenting with new technology
 * 🛠️ Building different projects across software and hardware
-* 🧑‍🍳 Primary account for my future projects
+* 🧑‍🍳 My primary account for any future projects
 
 
 ###  Skills
