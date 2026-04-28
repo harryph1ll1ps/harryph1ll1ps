@@ -18,7 +18,7 @@
 ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white)
 ![Fastify](https://img.shields.io/badge/fastify-%23000000.svg?style=for-the-badge&logo=fastify&logoColor=white)
 
-
+<!--
 ### Social Media
 <a href="https://www.linkedin.com/in/htphillips/" target="_blank">
   <img width="35" height="35" alt="LinkedIn" src="https://github.com/user-attachments/assets/e4e88b4c-848d-47a5-b84d-854fdd9601f4" />
@@ -26,7 +26,7 @@
 
 <img width="35" height="35" alt="Twitter" src="https://github.com/user-attachments/assets/8959472e-f87c-4e98-8b58-8c18303639dd" />
 
-<!--
+
 **harryph1ll1ps/harryph1ll1ps** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
