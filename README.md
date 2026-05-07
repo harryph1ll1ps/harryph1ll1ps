@@ -2,8 +2,8 @@
 
 ###  About Me
 
-* 🎓 Penultimate-year Computer Science + Commerce student at Monash University
 * 🚀 SWE @ Lyrebird Health
+* 🎓 Penultimate-year Computer Science + Commerce student at Monash University
 * 🧑‍🍳 New account for any future projects (2026+)
 
 
