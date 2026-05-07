@@ -3,8 +3,7 @@
 ###  About Me
 
 * 🎓 Penultimate-year Computer Science + Commerce student at Monash University
-* 🚀 Working closely with founders and early-stage Australian startups
-* 🛠️ Building different projects across software and hardware
+* 🚀 SWE @ Lyrebird Health
 * 🧑‍🍳 New account for any future projects (2026+)
 
 
