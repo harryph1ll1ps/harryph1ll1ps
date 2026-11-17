@@ -3,7 +3,7 @@
 ###  About Me
 
 * 🚀 SWE @ Lyrebird Health
-* 🎓 Computer Science + Commerce student @ Monash University
+* 🎓 Computer Science + CS @ Monash University
 
 
 ###  Skills
